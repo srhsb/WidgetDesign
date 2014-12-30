@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WidgetDesign</string>
+    <string name="appwidget_text">Cricket Companion</string>
+    <string name="appwidget_text1">1 Companion</string>
+    <string name="appwidget_text2">2 Companion</string>
+    <string name="appwidget_text3">3 Companion</string>
+    <string name="appwidget_text4">4 Companiommmmmmmmmmmmmmmmmmmmmmmmmn</string>
+    <string name="add_widget">Add widget</string>
+    <string name="teamA">IND</string>
+    <string name="teamB">PAK</string>
+    <string name="vr">vr</string>
+    <string name="Live">Live</string>
+    <string name="scoreTeamA">340</string>
+    <string name="wicketsTeamA">4</string>
+    <string name="oversTeamA"></string>
+    <string name="scoreTeamB">340</string>
+    <string name="wicketsTeamB">4</string>
+    <string name="oversTeamB"></string>
+    <string name="matchFormat">1st ODI</string>
+    <string name="status">PAK won by 6 wkts</string>
+    <string name="scoreTeams">IND 227/6 PAK 228/4</string>
+    <string name="matchState">LIVE</string>
+
+</resources>
